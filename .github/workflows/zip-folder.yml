@@ -24,7 +24,7 @@ jobs:
         sudo apt install gh -y
 
     - name: Authenticate GitHub CLI
-      run: gh auth login --with-token <<<"${{ secrets.GITHUB_TOKEN }}"
+      run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
 
     # Cambia 'ruta/a/la/carpeta' por la ruta real de tu carpeta
     - name: Zip specific folder
@@ -32,14 +32,14 @@ jobs:
 
     - name: Get current date
       id: date
-      run: echo "::set-output name=date::$(date +'%Y%m%d%H%M%S')"
+      run: echo "date=$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
 
     - name: Create or Update Release
       id: create_or_update_release
       run: |
         release_id=$(gh release view v1.0.0 --json id --jq '.id' || echo "")
         if [ -z "$release_id" ]; then
-          gh release create v1.0.0-${{ steps.date.outputs.date }} carpeta.zip --title "Release v1.0.0-${{ steps.date.outputs.date }}"
+          gh release create v1.0.0-${{ env.date }} carpeta.zip --title "Release v1.0.0-${{ env.date }}"
         else
           gh release upload $release_id carpeta.zip --clobber
         fi
@@ -47,4 +47,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Print Release URL
-      run: echo "Release URL: https://github.com/${{ github.repository }}/releases/download/v1.0.0-${{ steps.date.outputs.date }}/carpeta.zip"
+      run: echo "Release URL: https://github.com/${{ github.repository }}/releases/download/v1.0.0-${{ env.date }}/carpeta.zip"
