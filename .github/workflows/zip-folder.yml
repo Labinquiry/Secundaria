@@ -17,7 +17,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Zip folder
-      run: zip -r carpeta.zip REI%20-%20Combinatoria
+      run: zip -r carpeta.zip REI - Combinatoria
 
     - name: Create Release
       id: create_release
