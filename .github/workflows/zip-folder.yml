@@ -45,7 +45,6 @@ jobs:
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+        
     - name: Print Release URL
-      run: echo "Release URL: https://github.com/${{ github.repository }}/releases/download/v1.0.0-${{ env.date }}/carpeta.zip"
-      
+      run: echo "Release URL: https://github.com/Labinquiry/Secundaria/releases/download/v1.0.0/carpeta.zip"
