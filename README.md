@@ -1,11 +1,9 @@
 # Labinquiry - Secundària
-En aquest repositori trobareu els materials per a poder implementar la situació d'aprenentatge completa.
+En aquest repositori trobareu els materials per a poder implementar les situacions d'aprenentatge.
 
-**Accés a professors**
-Si voleu tenir accés als materials complets, així com enviar-vos el material físic (cadenats), poseu-vos en contacte amb nosaltres per afegir-vos al nostre equip de professors.
+**Accés a professors**: Si voleu tenir accés als materials complets, així com enviar-vos el material físic (cadenats, ampolles,...), poseu-vos en contacte amb nosaltres per afegir-vos al nostre equip de professors. labinquiry@ub.edu
 
-**Web Labinquiry**
-https://www.ub.edu/labinquiry
+**Web Labinquiry**: https://www.ub.edu/labinquiry
 
 **Telegram** 
 Per estar en contacte amb la comunitat de professorat que participa en aquesta iniciativa.
