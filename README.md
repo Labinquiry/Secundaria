@@ -1,6 +1,6 @@
 # Labinquiry - Secundària
 
-**Accés a professors**: Si voleu tenir accés als materials complets, així com enviar-vos el material físic (cadenats, ampolles,...), poseu-vos en contacte amb nosaltres per afegir-vos al nostre equip de professors. [Contacta'ns](https://www.ub.edu/labinquiry/contactans/)
+**Accés a professors**: Si voleu tenir accés als materials complets, així com enviar-vos el material físic (cadenats, ampolles,...), poseu-vos en contacte amb nosaltres per afegir-vos al nostre equip de professors. [Contacta'ns!](https://www.ub.edu/labinquiry/contactans/)
 
 **Web Labinquiry:** [https://www.ub.edu/labinquiry](https://www.ub.edu/labinquiry)
 
