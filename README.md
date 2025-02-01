@@ -3,6 +3,7 @@
 **Accés a professors**: Si voleu tenir accés als materials complets, així com enviar-vos el material físic (cadenats, ampolles,...), poseu-vos en contacte amb nosaltres per afegir-vos al nostre equip de professors. [labinquiry@ub.edu](mailto:labinquiry@ub.edu)
 
 **Web Labinquiry:** [https://www.ub.edu/labinquiry](https://www.ub.edu/labinquiry)
+
 **Web GitHub:** [https://labinquiry.github.io/Secundaria/](https://labinquiry.github.io/Secundaria/)
 
 **Telegram** 
