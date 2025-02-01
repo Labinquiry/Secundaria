@@ -28,12 +28,12 @@ jobs:
 
     - name: Create ZIP for REI-Combinatoria
       run: |
-        zip -r output.zip REI-Recogida-de-datos
+        zip -r REI-Recogida-de-datos.zip "REI-Recogida-de-datos"
       shell: bash
 
     - name: Create ZIP for REI-Recogida-de-datos
       run: |
-        zip -r output.zip REI-Combinatoria
+        zip -r REI-Combinatoria.zip "REI-Combinatoria"
       shell: bash
 
     - name: Create or Update Release
