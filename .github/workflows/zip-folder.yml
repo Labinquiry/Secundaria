@@ -1,4 +1,4 @@
-name: Zip Folder and Create Release
+name: Zip Specific Folder and Update Release
 
 on:
   push:
@@ -16,26 +16,14 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Zip folder
+    # Cambia 'ruta/a/la/carpeta' por la ruta real de tu carpeta
+    - name: Zip specific folder
       run: zip -r carpeta.zip REI - Combinatoria
 
-    - name: Create Release
-      id: create_release
-      uses: actions/create-release@v1
+    - name: Update Release
+      id: update_release
+      run: |
+        release_id=$(gh release view v1.0.0 --json id --jq '.id')
+        gh release upload $release_id carpeta.zip --clobber
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: v1.0.0
-        release_name: Release v1.0.0
-        draft: false
-        prerelease: false
-
-    - name: Upload Release Asset
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: carpeta.zip
-        asset_name: carpeta.zip
-        asset_content_type: application/zip
