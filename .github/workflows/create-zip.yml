@@ -1,0 +1,29 @@
+name: Create ZIP
+
+on:
+  push:
+    branches:
+      - main  # Cambia a la rama que prefieras
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Permisos para leer y escribir contenido
+
+jobs:
+  create-zip:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Create ZIP file
+      run: |
+        zip -r output.zip REI - Combinatoria
+      shell: bash
+
+    - name: Upload ZIP file
+      uses: actions/upload-artifact@v3
+      with:
+        name: output-zip
+        path: output.zip
