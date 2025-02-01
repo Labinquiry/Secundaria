@@ -1,7 +1,7 @@
 # REI - La Situació dels Cadenats
 Aquest REI sorgeix del problema social de les contrasenyes i la seguretat cibernètica: per què sempre ens recomanen incloure majúscules, números, caràcters especials en les contrasenyes? Comencem pel cas més senzill dels cadenats que permet l’ús de material manipulatiu per a l’estudi.
 
-**Repositori amb el material** [Enllaç de Github](https://github.com/Labinquiry/Secundaria/tree/main/REI%20-%20Combinatoria)
+**Repositori amb el material** [Enllaç de Github](https://github.com/Labinquiry/Secundaria/tree/main/REI-Combinatoria)
 
 **Descarrega directa el .zip amb tot el material** [Arxiu .zip](https://github.com/Labinquiry/Secundaria/releases/download/latest/REI-Combinatoria.zip)
 
