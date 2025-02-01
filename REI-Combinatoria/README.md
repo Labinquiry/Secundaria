@@ -3,9 +3,10 @@ Aquest REI sorgeix del problema social de les contrasenyes i la seguretat cibern
 
 **Repositori amb el material** [Enllaç de Github](https://github.com/Labinquiry/Secundaria/tree/main/REI%20-%20Combinatoria)
 
-  **Descarrega directa el .zip amb tot el material** [Arxiu .zip]()
+**Descarrega directa el .zip amb tot el material** [Arxiu .zip](https://github.com/Labinquiry/Secundaria/releases/download/latest/output.zip)
 
-#
+
+----
 
 **Mapa de Qüestions i Respostes**
 [La visió completa de la situació](https://miro.com/app/board/uXjVL8IbWSA=/?share_link_id=539215124872)
