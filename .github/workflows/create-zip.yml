@@ -38,23 +38,3 @@ jobs:
           REI-Recogida-de-datos.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Upload REI-Combinatoria ZIP to Release
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: REI-Combinatoria.zip
-        asset_name: REI-Combinatoria.zip
-        asset_content_type: application/zip
-  
-    - name: Upload REI-Recogida-de-datos ZIP to Release
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: REI-Recogida-de-datos.zip
-        asset_name: REI-Recogida-de-datos.zip
-        asset_content_type: application/zip
