@@ -1,4 +1,4 @@
-name: Zip Specific Folder and Create/Update Release
+name: Zip Specific Folder
 
 on:
   push:
