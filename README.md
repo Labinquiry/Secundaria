@@ -1,5 +1,4 @@
 # Labinquiry - Secundària
-En aquest repositori trobareu els materials per a poder implementar les situacions d'aprenentatge.
 
 **Accés a professors**: Si voleu tenir accés als materials complets, així com enviar-vos el material físic (cadenats, ampolles,...), poseu-vos en contacte amb nosaltres per afegir-vos al nostre equip de professors. labinquiry@ub.edu
 
