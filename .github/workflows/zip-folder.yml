@@ -1,9 +1,12 @@
-name: Zip Folder
+name: Zip Folder and Create Release
 
 on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write  # Permisos para leer y escribir contenido
 
 jobs:
   build:
