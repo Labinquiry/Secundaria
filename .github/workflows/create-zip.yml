@@ -17,15 +17,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: List directory contents
-      run: |
-        echo "Contenido del directorio raíz:"
-        ls -la
-        echo "Contenido de la carpeta REI-Combinatoria:"
-        ls -la "REI-Combinatoria"
-        echo "Contenido de la carpeta REI-Recogida-de-datos:"
-        ls -la "REI-Recogida-de-datos"
-
     - name: Create ZIP for REI-Combinatoria
       run: |
         zip -r REI-Recogida-de-datos.zip "REI-Recogida-de-datos"
