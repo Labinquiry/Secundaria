@@ -19,7 +19,7 @@ jobs:
 
     - name: Create ZIP file
       run: |
-        zip -r output.zip REI - Combinatoria
+        zip -r output.zip REI%20-%20Combinatoria
       shell: bash
 
     - name: Upload ZIP file
