@@ -10,7 +10,7 @@ Aquest REI sorgeix del problema social de les contrasenyes i la seguretat cibern
 **Exemple de Classroom**
 Podeu inscriure-us per veure els materials i guies organitzats per les diferents fases. Són els
 mateixos documents que trobareu a la carpeta.
-https://classroom.google.com/c/NzQ1MDI1OTY4NDk1?cjc=hlrwtxu
+[Inscriu-te al classroom](https://classroom.google.com/c/NzQ1MDI1OTY4NDk1?cjc=hlrwtxu)
 
 
 **Telegram** 
