@@ -1,8 +1,6 @@
-# Labinquiry
-LabInquiry ofereix recursos i materials didàctics per a l'ensenyament de les matemàtiques i estadística a l'educació secundària i universitària elaborats des de la investigació en didàctica.
+# REI - La Situació dels Cadenats
+Aquest REI sorgeix del problema social de les contrasenyes i la seguretat cibernètica: per què sempre ens recomanen incloure majúscules, números, caràcters especials en les contrasenyes? Comencem pel cas més senzill dels cadenats que permet l’ús de material manipulatiu per a l’estudi.
 
-**Web Labinquiry**
-https://www.ub.edu/labinquiry
 
 **Mapa de Qüestions i Respostes**
 La visió completa de la situació.
@@ -20,5 +18,8 @@ Per estar en contacte amb la comunitat de professorat que participa en aquesta i
 Comenteu quan comenceu, envieu-nos fotos de les pissarres i podrem acompanyar-vos en
 aquesta experiència!
 https://t.me/labinquiry
+
+**Web Labinquiry**
+https://www.ub.edu/labinquiry
 
 **Referències**
