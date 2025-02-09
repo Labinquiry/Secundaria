@@ -17,13 +17,24 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Create ZIP file
+    - name: Create ZIP for REI-Combinatoria
       run: |
-        zip -r output.zip REI-Combinatoria
+        zip -r REI-Recogida-de-datos.zip "REI-Recogida-de-datos"
       shell: bash
 
-    - name: Upload ZIP file
-      uses: actions/upload-artifact@v4
+    - name: Create ZIP for REI-Recogida-de-datos
+      run: |
+        zip -r REI-Combinatoria.zip "REI-Combinatoria"
+      shell: bash
+
+    - name: Create or Update Release
+      id: create_release
+      uses: softprops/action-gh-release@v1
       with:
-        name: output-zip
-        path: output.zip
+        tag_name: latest
+        name: Release for latest changes
+        files: |
+          REI-Combinatoria.zip
+          REI-Recogida-de-datos.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
