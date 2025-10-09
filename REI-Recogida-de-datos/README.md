@@ -6,13 +6,16 @@ REI sobre l'atzar i la inferència estadística, on es treballa, sobretot, el pr
 
 **Descarrega directa el .zip amb tot el material** [Arxiu .zip](https://github.com/Labinquiry/Secundaria/releases/download/latest/REI-Recogida-de-datos.zip)
 
-----
-
-**Referències**
+**Vídeo Implementació* [Enllaç YouTube](https://www.youtube.com/watch?v=_TAt-KlB-dw)
 
 **Vídeo Projecte Florence** [Enllaç YouTube](https://www.youtube.com/live/zL2VqQCLeIk?si=5to5LIK7LRL_yFKq)
 
 **Guia didàctica Projecte Florence** [Enllaç PDF](https://projectes.xtec.cat/nou-curriculum/wp-content/uploads/usu2072/2025/05/Guies-Didactiques-de-Primaria.-Atzar-2.pdf)
+
+
+----
+
+**Referències**
 
 Granell, C. i Barquero, B. (2019) Experiència amb un recorregut d’estudi i investigació sobre la inferència estadística a l’educació primària. Què s’amaga dins l’ampolla?. _Noubiaix: revista de la FEEMCAT i la SCM, no. 44_, pp. 54-69, https://raco.cat/index.php/Noubiaix/article/view/371495
 
