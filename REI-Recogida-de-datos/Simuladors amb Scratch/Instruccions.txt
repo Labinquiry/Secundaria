@@ -1,0 +1,17 @@
+Projecte Scratch:
+
+Fase 1:
+Crea ampolles aleatòries cada vegada que es carrega [5 boles, 2 colors]
+https://scratch.mit.edu/projects/1225516055/
+
+
+Fase 2:
+Ampolla 1: 2B 3R 6T 4G
+https://scratch.mit.edu/projects/1225624571/
+
+
+Ampolla 2: 1B 4R 3T 7G
+https://scratch.mit.edu/projects/1225630128/
+
+Pàgina per exportar a HTML:
+https://packager.turbowarp.org/?import_from=https://turbowarp.org
