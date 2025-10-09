@@ -27,4 +27,8 @@ aquesta experiència!
 **Web Labinquiry**
 [https://www.ub.edu/labinquiry](https://www.ub.edu/labinquiry)
 
+**Video implementació**
+[https://www.youtube.com/watch?v=eDBIGtSjA1Q](https://www.youtube.com/watch?v=eDBIGtSjA1Q)
+
 **Referències**
+
