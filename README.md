@@ -14,3 +14,5 @@ aquesta experiència!
 
 Aquest projecte està llicenciat sota la [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 ![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png) 
+
+https://www.ub.edu/labinquiry/wp-content/uploads/2025/07/micinn-BN-1-scaled-e1751732621113.png
