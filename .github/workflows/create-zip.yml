@@ -27,6 +27,11 @@ jobs:
         zip -r REI-Combinatoria.zip "REI-Combinatoria"
       shell: bash
 
+    - name: Create ZIP for REI-Interdisciplinar
+      run: |
+        zip -r REI-Interdisciplinar.zip "REI-Interdisciplinar"
+      shell: bash
+
     - name: Create or Update Release
       id: create_release
       uses: softprops/action-gh-release@v1
@@ -36,5 +41,6 @@ jobs:
         files: |
           REI-Combinatoria.zip
           REI-Recogida-de-datos.zip
+          REI-Interdisciplinar.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
