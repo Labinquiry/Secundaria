@@ -32,3 +32,5 @@ aquesta experiència!
 
 **Referències**
 
+
+![Micinn BN](https://www.ub.edu/labinquiry/wp-content/uploads/2025/07/micinn-BN-1-scaled-e1751732621113.png)

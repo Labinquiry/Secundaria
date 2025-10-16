@@ -21,3 +21,4 @@ Granell, C. i Barquero, B. (2019) Experiència amb un recorregut d’estudi i in
 
 Brousseau,G., Brousseau,N. i Warfield,V. (2002). An experiment on the teaching of statisticsand probability._Journal of Mathematical Behaviour,20_(3), 363-411
 
+![Micinn BN](https://www.ub.edu/labinquiry/wp-content/uploads/2025/07/micinn-BN-1-scaled-e1751732621113.png)

@@ -12,3 +12,5 @@ REI interdisciplinar entre Geologia i Matemàtiques que convida l'alumnat a inve
 **Referències**
 
 Vásquez, S. i Orlandi, G. (In press) Is the Megalodon still alive? Analysis of an interdisciplinary study and research path. CITAD8
+
+![Micinn BN](https://www.ub.edu/labinquiry/wp-content/uploads/2025/07/micinn-BN-1-scaled-e1751732621113.png)
