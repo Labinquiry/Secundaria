@@ -6,6 +6,8 @@
 
 **Web GitHub:** [https://labinquiry.github.io/Secundaria/](https://labinquiry.github.io/Secundaria/)
 
+**Questionari:** Si heu implementat alguna de les propostes, podeu omplir el formulari de valoració: [Formulari[(https://docs.google.com/forms/d/e/1FAIpQLSeNY08knoKHi2coGq7XeMKAqeYCljUJsAWKqWqt-Xx6NwqByg/viewform?usp=dialog)
+
 **Telegram** 
 Per estar en contacte amb la comunitat de professorat que participa en aquesta iniciativa.
 Comenteu quan comenceu, envieu-nos fotos de les pissarres i podrem acompanyar-vos en
