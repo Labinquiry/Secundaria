@@ -6,7 +6,10 @@ REI sobre l'atzar i la inferència estadística, on es treballa, sobretot, el pr
 
 **Descarrega directa el .zip amb tot el material** [Arxiu .zip](https://github.com/Labinquiry/Secundaria/releases/download/latest/REI-Recogida-de-datos.zip)
 
-**Vídeo Implementació* [Enllaç YouTube](https://www.youtube.com/watch?v=_TAt-KlB-dw)
+**Vídeo Implementació** [Vídeo curt](https://www.youtube.com/watch?v=_TAt-KlB-dw)
+
+**Vídeo Implementació** [Vídeo llarg - Inici del REI](https://youtu.be/mtJspqgqPm0)
+
 
 **Vídeo Projecte Florence** [Enllaç YouTube](https://www.youtube.com/live/zL2VqQCLeIk?si=5to5LIK7LRL_yFKq)
 

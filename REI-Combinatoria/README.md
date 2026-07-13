@@ -7,6 +7,11 @@ Aquest REI sorgeix del problema social de les contrasenyes i la seguretat cibern
 
 
 ----
+**Vídeo d'un fragment de classe**
+[Vídeo curt](https://youtu.be/7PHlvJYRc0Y)
+
+**Entrevista amb un professor**
+[Entrevista](https://youtu.be/eDBIGtSjA1Q)
 
 **Mapa de Qüestions i Respostes**
 [La visió completa de la situació](https://miro.com/app/board/uXjVL8IbWSA=/?share_link_id=539215124872)
